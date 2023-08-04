@@ -3,4 +3,4 @@
 ####   -HTML
 ####   -CSS & Bootstrap 
 ####   -JS 
-##### using JS for make a countdown timer
+##### using JS to make a countdown timer
